@@ -1,0 +1,38 @@
+h1 {
+  margin-top: 10%;
+  margin-left: 3%;
+  color: black;
+  animation-name: tracking-in-expand;
+  animation-duration: 1.5s;
+  animation-iteration-count: 1;
+}
+p {
+  margin: 5%;
+  opacity: 0.8;
+  color: black;
+  text-align: center;
+}
+.homeFlex {
+  margin: 2% 0;
+  display: flex;
+  justify-content: center;
+}
+
+.homeDiv {
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  width: 75vw;
+  height: auto;
+  z-index: 0;
+  background: white;
+  opacity: 0.811;
+  border-radius: 25px;
+  border: 2px solid red;
+  padding: 1%;
+}
+
+h2 {
+  color: white;
+  text-align: center;
+}
