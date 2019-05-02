@@ -6,7 +6,7 @@ const Home = () => {
   return (
     <div className="homeDiv">
       <section className="homeFlex">
-        <h1>Jump Tracker</h1>
+        <h1>Verti-Jump</h1>
       </section>
       <p>
         Welcome to the Jump Tracker application. Jumping is one athletic
